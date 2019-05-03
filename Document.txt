@@ -1,0 +1,4 @@
+Title: Animated Login and Register form using Html 5 & JS - Source included
+Description:In this video we will create awesome animated login and register form from very scratch using Html 5 and JS. This is the step by step education tutorial where you will learn many thing about website design and development. Hope this video help you alot.
+URL: https://www.youtube.com/watch?v=h5MyIjZbCzc
+Published date: May 9, 2018
